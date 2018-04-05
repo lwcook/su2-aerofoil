@@ -2,3 +2,6 @@ data/*
 output/*
 **/restarts/*
 **/geometry/*
+*.swp
+*.swo
+*.pyc
